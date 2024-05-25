@@ -1,4 +1,4 @@
-const hello = () => "Hello World from the Office Hours in MX!";
+const hello = () => "Hello World from the office Hours in MX!";
 console.log(hello());
 exports.hello = hello;
 
